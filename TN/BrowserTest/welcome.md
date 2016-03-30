@@ -1,7 +1,3 @@
---------
-customerMeta:testMeta
---------
-
 ## Microsoft Edge - Deployment Guide for IT Pros
 ###Applies to:
 
